@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\Programación\Ejercicio2Obligatorio\bin\Debug\net7.0\Ejercicio2Obligatorio.exe
+C:\Users\Carlos\Desktop\Programación\Ejercicio2Obligatorio\bin\Debug\net7.0\Ejercicio2Obligatorio.deps.json
+C:\Users\Carlos\Desktop\Programación\Ejercicio2Obligatorio\bin\Debug\net7.0\Ejercicio2Obligatorio.runtimeconfig.json
+C:\Users\Carlos\Desktop\Programación\Ejercicio2Obligatorio\bin\Debug\net7.0\Ejercicio2Obligatorio.dll
+C:\Users\Carlos\Desktop\Programación\Ejercicio2Obligatorio\bin\Debug\net7.0\Ejercicio2Obligatorio.pdb
+C:\Users\Carlos\Desktop\Programación\Ejercicio2Obligatorio\obj\Debug\net7.0\Ejercicio2Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Programación\Ejercicio2Obligatorio\obj\Debug\net7.0\Ejercicio2Obligatorio.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Programación\Ejercicio2Obligatorio\obj\Debug\net7.0\Ejercicio2Obligatorio.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Programación\Ejercicio2Obligatorio\obj\Debug\net7.0\Ejercicio2Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Programación\Ejercicio2Obligatorio\obj\Debug\net7.0\Ejercicio2Obligatorio.dll
+C:\Users\Carlos\Desktop\Programación\Ejercicio2Obligatorio\obj\Debug\net7.0\refint\Ejercicio2Obligatorio.dll
+C:\Users\Carlos\Desktop\Programación\Ejercicio2Obligatorio\obj\Debug\net7.0\Ejercicio2Obligatorio.pdb
+C:\Users\Carlos\Desktop\Programación\Ejercicio2Obligatorio\obj\Debug\net7.0\Ejercicio2Obligatorio.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Programación\Ejercicio2Obligatorio\obj\Debug\net7.0\ref\Ejercicio2Obligatorio.dll
